@@ -1,1 +1,0 @@
-# mean-course-app
